@@ -1,0 +1,34 @@
+2022/05/04 12:01:45 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1651636905169767000}
+2022/05/04 12:05:05 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1651637105014754000}
+2022/05/04 13:30:55 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1651642255982552000}
+2022/05/04 15:21:34 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1651648894748530000}
+2022/05/04 18:18:42 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1651659522539565000}
+2022/05/04 18:18:50 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"error","message":"app.BindAndValid errs: State必须是[0 1]中的一个","time":1651659530413347000}
+2022/05/04 21:46:09 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1651671969415375000}
+2022/05/04 21:46:27 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度必须至少为3个字符","time":1651671987507405000}
+2022/05/04 21:46:57 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度必须至少为3个字符","time":1651672017013366000}
+2022/05/04 21:47:36 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"error","message":"app.BindAndValid errs: ID为必填字段,Name长度必须至少为3个字符,State为必填字段","time":1651672056705951000}
+2022/05/04 21:47:44 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"error","message":"app.BindAndValid errs: ID为必填字段","time":1651672064013531000}
+2022/05/04 21:58:56 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1651672736419607000}
+2022/05/04 21:58:59 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"error","message":"app.BindAndValid errs: ID为必填字段,Name长度必须至少为3个字符,State为必填字段","time":1651672739351177000}
+2022/05/04 21:59:20 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"error","message":"app.BindAndValid errs: State为必填字段,Name长度必须至少为3个字符","time":1651672760529094000}
+2022/05/04 21:59:37 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度必须至少为3个字符,State为必填字段","time":1651672777504749000}
+2022/05/04 22:01:30 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度必须至少为3个字符","time":1651672890951798000}
+2022/05/04 22:02:23 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"error","message":"app.BindAndValid errs: State为必填字段,ID为必填字段,Name长度必须至少为3个字符","time":1651672943214769000}
+2022/05/04 22:04:27 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度必须至少为3个字符,State为必填字段","time":1651673067838346000}
+2022/05/04 22:06:48 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"error","message":"app.BindAndValid errs: State为必填字段","time":1651673208595583000}
+2022/05/04 22:07:15 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"error","message":"app.BindAndValid errs: ID为必填字段,Name长度必须至少为3个字符,State为必填字段","time":1651673235394147000}
+2022/05/04 22:08:18 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"error","message":"app.BindAndValid errs: ID为必填字段,Name长度必须至少为3个字符,State为必填字段","time":1651673298406933000}
+2022/05/04 22:08:27 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"error","message":"app.BindAndValid errs: ID为必填字段,Name长度必须至少为3个字符,State为必填字段","time":1651673307319386000}
+2022/05/04 22:08:47 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"error","message":"app.BindAndValid errs: State为必填字段","time":1651673327509700000}
+2022/05/04 22:12:04 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1651673524336277000}
+2022/05/04 22:12:12 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度必须至少为3个字符","time":1651673532929374000}
+2022/05/04 22:12:17 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度必须至少为3个字符","time":1651673537421431000}
+2022/05/04 22:14:10 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1651673650386659000}
+2022/05/04 22:14:15 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"error","message":"app.BindAndValid errs: State为必填字段","time":1651673655437927000}
+2022/05/04 22:14:26 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"error","message":"app.BindAndValid errs: State为必填字段","time":1651673666283909000}
+2022/05/04 22:16:37 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1651673797777720000}
+2022/05/04 22:18:56 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1651673936195700000}
+2022/05/04 22:19:00 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"error","message":"app.BindAndValid errs: State为必填字段","time":1651673940154157000}
+2022/05/04 22:21:50 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1651674110373015000}
+2022/05/04 23:09:44 {"callers":["/Users/wonz/project/GitHub/Gin/main.go: 28 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1651676984985048000}
